@@ -1,0 +1,6 @@
+shapely
+matplotlib
+geopandas
+tinydb
+ipykernel
+tqdm
